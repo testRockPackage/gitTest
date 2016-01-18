@@ -6,7 +6,7 @@ You should give access to the collaborators and teams you need to work with.
 Add teams and collaborators 
 
 
-Quick setup ? if you¡¯ve done this kind of thing before
+Quick setup ? if youÂ¡Â¯ve done this kind of thing before
 
 
 ? Set up in Desktop 
@@ -24,7 +24,7 @@ SSH
 We recommend every repository include a README, LICENSE, and .gitignore. 
 
 
-¡¦or create a new repository on the command line
+Â¡Â¦or create a new repository on the command line
 
 
 ?Copy to clipboard 
@@ -37,7 +37,7 @@ git push -u origin master
 
 
 
-¡¦or push an existing repository from the command line
+Â¡Â¦or push an existing repository from the command line
 
 
 ?Copy to clipboard 
@@ -45,8 +45,14 @@ git remote add origin git@github.com:testRockPackage/gitTest.git
 git push -u origin master
 
 
-¡¦or import code from another repository
+Â¡Â¦or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 Import code
+
+git ì¦ê²¨ì°¾ê¸°..
+
+https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95
+
+
