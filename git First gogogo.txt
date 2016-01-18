@@ -1,0 +1,52 @@
+
+
+Give access to the people you work with
+
+You should give access to the collaborators and teams you need to work with.
+Add teams and collaborators 
+
+
+Quick setup ? if you¡¯ve done this kind of thing before
+
+
+? Set up in Desktop 
+
+or 
+
+
+
+ 
+HTTPS 
+
+ 
+SSH 
+ ?Copy to clipboard  
+We recommend every repository include a README, LICENSE, and .gitignore. 
+
+
+¡¦or create a new repository on the command line
+
+
+?Copy to clipboard 
+echo "# gitTest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:testRockPackage/gitTest.git
+git push -u origin master
+
+
+
+¡¦or push an existing repository from the command line
+
+
+?Copy to clipboard 
+git remote add origin git@github.com:testRockPackage/gitTest.git
+git push -u origin master
+
+
+¡¦or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+Import code
