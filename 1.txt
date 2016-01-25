@@ -1,4 +1,4 @@
 
 Master Commit & push & tag test
 
-원숭이도 이해할 수 있는 Git 명령어
+원숭이도 이해할수 있냐 Git 이슈 3 커밋입니다.
